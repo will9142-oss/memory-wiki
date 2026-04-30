@@ -14,3 +14,5 @@ _CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 
 - [2026-04-28] 내 유튜브 체널 분석해 지갑수호대 → 보고서 sessions/2026-04-28T21-01/_report.md
 - [2026-04-29] 지갑수호대 유튜브 API키야 → 보고서 sessions/2026-04-29T13-22/_report.md
 - [2026-04-29] 분석시작 → 보고서 sessions/2026-04-29T13-30/_report.md
+- [2026-04-29] 유튜브 미스트비스트 분석해줘 → 보고서 sessions/2026-04-29T15-01/_report.md
+- [2026-04-29] https://www.youtube.com/@경제학똑똑 https://www.youtube.com/@유치한경제학/videos https://www.youtube.com/@모아경제/videos https://www.youtube.com/@콧수염경제학/videos https://www.youtube.com/@돈되는경제학/videos  이 채널들을 분석해 → 보고서 sessions/2026-04-29T15-33/_report.md
