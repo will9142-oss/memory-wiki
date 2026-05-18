@@ -1,5 +1,8 @@
 {
   "ceo": "google/gemma-4-e2b",
+  "youtube": "google/gemma-4-e2b",
   "designer": "google/gemma-4-e2b",
-  "secretary": "google/gemma-4-e2b"
+  "secretary": "google/gemma-4-e2b",
+  "writer": "google/gemma-4-e2b",
+  "researcher": "google/gemma-4-e2b"
 }
